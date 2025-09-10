@@ -8,5 +8,5 @@
 
 ## 🔎 Interests
 
-- **금융 도메인** 위주의 데이터 분석
-- 머신러닝/딥러닝
+- Genrative AI in medical image
+- Medical Image Processing
